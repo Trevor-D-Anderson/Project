@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.dims {
+  width: 100px;
+}
+.pcs {
+  width: 100px;
+}
+.add {
+  width: 100px;
+}
+.remove {
+  width: 125px;
+}
+.labels {
+  display: flex;
+  justify-content: space-between;
+}
+.newName {
+  width: 125px;
+}
